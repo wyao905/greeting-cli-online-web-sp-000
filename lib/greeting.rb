@@ -1,2 +1,2 @@
 def greeting(name)
-  
+  puts ""
